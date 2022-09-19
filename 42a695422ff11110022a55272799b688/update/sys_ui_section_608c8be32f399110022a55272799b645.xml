@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="608c8be32f399110022a55272799b645" sys_domain="global" table="x_646971_ws1horizo_ws1horizon" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client_build</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-14 03:36:20</sys_created_on>
+            <sys_id>e88c8be32f399110022a55272799b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_646971_ws1horizo_ws1horizon" sys_domain="global" view="Default view">608c8be32f399110022a55272799b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-14 03:36:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-14 03:36:21</sys_created_on>
+            <sys_id>e08c8be32f399110022a55272799b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_646971_ws1horizo_ws1horizon" sys_domain="global" view="Default view">608c8be32f399110022a55272799b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-14 03:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-14 03:36:21</sys_created_on>
+            <sys_id>648c8be32f399110022a55272799b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_646971_ws1horizo_ws1horizon" sys_domain="global" view="Default view">608c8be32f399110022a55272799b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-14 03:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>userrecord</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-14 03:47:22</sys_created_on>
+            <sys_id>0a0f47e72f399110022a55272799b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_646971_ws1horizo_ws1horizon" sys_domain="global" view="Default view">608c8be32f399110022a55272799b645</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-14 03:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_646971_ws1horizo_ws1horizon</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-14 03:36:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>608c8be32f399110022a55272799b645</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_646971_ws1horizo_ws1horizon</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope>
+            <sys_update_name>sys_ui_section_608c8be32f399110022a55272799b645</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-14 03:36:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

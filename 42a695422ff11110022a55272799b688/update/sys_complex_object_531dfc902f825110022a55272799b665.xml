@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD9f1dfc9067825110efd3b9038152a664</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>42a695422ff11110022a55272799b688</scope_name>
+        <serialized_content>{"FlowDesigner:FD9f1dfc9067825110efd3b9038152a664":{"userdetails":[{"$78_userdetails":{"guid":"String","guid.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"guid\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"c26acfb5-dc45-4cf4-a1af-2b6111066da3\"}"}}}],"userdetails.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"userdetails\",\"mandatory\":\"false\",\"child_name\":\"userdetail\",\"uiUniqueId\":\"16a060af-b94d-44de-9e6f-9bfd6af98bb5\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"userdetail\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"a140931f-02e1-4f96-b04d-d7ba598c4d4e\"}"}},"FlowDesigner:FD9f1dfc9067825110efd3b9038152a664.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"alldetails\",\"mandatory\":\"false\",\"uiUniqueId\":\"bb8fcb99-1317-42d1-bd59-34ebe650d94c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD9f1dfc9067825110efd3b9038152a664\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-16 01:05:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>531dfc902f825110022a55272799b665</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD9f1dfc9067825110efd3b9038152a664</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope>
+        <sys_update_name>sys_complex_object_531dfc902f825110022a55272799b665</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-16 01:17:13</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

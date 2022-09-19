@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 03:05:23</sys_created_on>
+        <sys_id>0b6587eb2ff59110022a55272799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_646971_ws1horizo_ws1horizon.x_646971_ws1horizo.ws1horizon_user</sys_name>
+        <sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope>
+        <sys_security_acl display_value="x_646971_ws1horizo_ws1horizon">036587eb2ff59110022a55272799b68b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0b6587eb2ff59110022a55272799b68d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 03:05:23</sys_updated_on>
+        <sys_user_role display_value="x_646971_ws1horizo.ws1horizon_user" name="x_646971_ws1horizo.ws1horizon_user">fa6543eb2ff59110022a55272799b6f8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

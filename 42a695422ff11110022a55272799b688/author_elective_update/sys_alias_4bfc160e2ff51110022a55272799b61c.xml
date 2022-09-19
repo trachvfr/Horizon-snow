@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_646971_ws1horizo.ws1horizon1</id>
+        <multiple_connections>false</multiple_connections>
+        <name>ws1horizon1</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 08:18:05</sys_created_on>
+        <sys_id>4bfc160e2ff51110022a55272799b61c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_646971_ws1horizo.ws1horizon1</sys_name>
+        <sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope>
+        <sys_update_name>sys_alias_4bfc160e2ff51110022a55272799b61c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 08:20:31</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ws1horizon">42a695422ff11110022a55272799b688</application>
+        <file_path/>
+        <instance_id>8419988cdb74bb00b847ac44d4961980</instance_id>
+        <instance_name>dev79738</instance_name>
+        <name>sys_alias_4bfc160e2ff51110022a55272799b61c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_646971_ws1horizo.ws1horizon1</id><multiple_connections>false</multiple_connections><name>ws1horizon1</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-09 08:18:05</sys_created_on><sys_id>4bfc160e2ff51110022a55272799b61c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_646971_ws1horizo.ws1horizon1</sys_name><sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package><sys_policy/><sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope><sys_update_name>sys_alias_4bfc160e2ff51110022a55272799b61c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-09 08:20:31</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1140453958</payload_hash>
+        <record_name>x_646971_ws1horizo.ws1horizon1</record_name>
+        <reverted_from/>
+        <source>c2a695422ff11110022a55272799b68a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 08:20:31</sys_created_on>
+        <sys_id>669d9e0e2ff51110022a55272799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18321560e2b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 08:20:31</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>ae9d9e0ef6f51110b584d4d9ca131d2d</update_guid>
+        <update_guid_history>ae9d9e0ef6f51110b584d4d9ca131d2d:-1140453958,3a0d9eca85f5111041b0585cd56ce989:-610889821</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-09 08:20:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>0f916ce530f0475086dad13b595f4a40</sys_id>
+        <sys_metadata>4bfc160e2ff51110022a55272799b61c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_646971_ws1horizo.ws1horizon1</sys_name>
+        <sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope>
+        <sys_scope_delete display_value="">07fcdd4d2fa44653830c97f3fe12a891</sys_scope_delete>
+        <sys_update_name>sys_alias_4bfc160e2ff51110022a55272799b61c</sys_update_name>
+        <sys_update_version display_value="sys_alias_4bfc160e2ff51110022a55272799b61c">669d9e0e2ff51110022a55272799b62e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-09 08:20:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_646971_ws1horizo.ws1horizon_user" name="x_646971_ws1horizo.ws1horizon_user">fa6543eb2ff59110022a55272799b6f8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 03:05:22</sys_created_on>
+        <sys_id>7a6587eb2ff59110022a55272799b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fa6543eb2ff59110022a55272799b6f8</sys_name>
+        <sys_package display_value="ws1horizon" source="x_646971_ws1horizo">42a695422ff11110022a55272799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ws1horizon">42a695422ff11110022a55272799b688</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7a6587eb2ff59110022a55272799b674</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 03:05:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

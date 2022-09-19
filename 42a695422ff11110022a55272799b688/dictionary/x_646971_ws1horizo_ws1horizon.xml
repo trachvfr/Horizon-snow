@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ws1horizon" max_length="40" name="x_646971_ws1horizo_ws1horizon" sizeclass="2" type="collection">
+        <element label="client build" max_length="255" name="client_build" type="string"/>
+        <element label="id" max_length="512" name="id" type="string"/>
+        <element label="userrecord" max_length="32" name="userrecord" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="userrecord"/>
+        </index>
+    </element>
+</database>
